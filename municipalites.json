@@ -1,0 +1,1132 @@
+{
+	"Tunis" : [{
+			"municipalite" : "Tunis",
+			"chaise" : "60"
+		}, {
+			"municipalite" : "Sidi Hassine",
+			"chaise" : "36"
+		},
+		{
+			"municipalite" : "La Marsa",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Goulette",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Bardo",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "la Goulette",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Carthage",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Bousaid",
+			"chaise" : "12"
+		}
+	],
+	"Ariana" : [{
+			"municipalite" : "Soukra",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Ariana",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Raoued",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Mnihla",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Ettadhamen",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Kalaat El Andalous",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Sidi Thabet",
+			"chaise" : "18"
+		}
+	],
+	"Ben Arous" : [{
+			"municipalite" : "El Mourouj",
+			"chaise" : "36"
+		},
+		{
+			"municipalite" : "Ben Arous",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "El Mhamdiya",
+			"chaise" : "30"
+		},
+		{
+			"municipalite" : "Rades",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Fouchana",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Hammam Lif",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Mourneg",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Boumhel El-Bassatine",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Zahra",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Hammam Chott",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Naassen",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Megrine",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Khalidia",
+			"chaise" : "18"
+		}
+	],
+	"La Manouba" : [{
+			"municipalite" : "Douar Hicher",
+			"chaise" : "30"
+		},
+		{
+			"municipalite" : "Oued Ellil",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Djedeida",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Tebourba",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "La Manouba",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Mornaguia",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Den Den",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "El Batan",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Borj El Amri",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Bassatine",
+			"chaise" : "18"
+		}
+	],
+	"Bizerte" : [{
+			"municipalite" : "Bizerte",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Menzel Bourgiba",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Mateur",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Ras Jebel",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Joumine",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Menzel Jemil",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Alia",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Ghezala",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Tinja",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sejnane",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Utique",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Menzel Abdurahman",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Hachachina",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Mateline",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Rafraf",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Aousaja",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ghar El Melh",
+			"chaise" : "18"
+		}
+	],
+	"Nabeul" : [{
+			"municipalite" : "Hammamet",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Nabeul",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Korba",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Menzel Temime",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Kélibia",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Dar Chaâbane El Fehri",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Grombalia",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Soliman",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Menzel Bouzelfa",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Bou Argoub",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Mida",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Béni Khalled",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Haouaria",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Béni Khiar",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Foundouk Jedid/slaten",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Takelsa",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Menzel Hor",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Tigran Zaouiet El Mgaies",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Sidi Jdidi",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "El Chrifet Bouchra",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zaouiet Jedidi",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Maâmoura",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Azmour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Hammam Ghezèze",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Tazarka",
+			"chaise" : "12"
+		},
+		{
+			"municipalite" : "Somaa",
+			"chaise" : "12"
+		},
+		{
+			"municipalite" : "Dar Allouche",
+			"chaise" : "12"
+		},
+		{
+			"municipalite" : "Korbous",
+			"chaise" : "12"
+		}
+	],
+	"Zaghouan" : [{
+			"municipalite" : "Zaghouan",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "El Fahs",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Nadhour",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Zriba",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Bir Mcherga",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Saouaf",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Amiem",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Jebel El Oust",
+			"chaise" : "12"
+		}
+	],
+	"Béja" : [{
+			"municipalite" : "Béja",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Medjez el-Bab",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Testour",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Nefza",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Téboursouk",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ouchtata El Jamila",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zahrat Madine",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Goubellat",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Magoula",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Thibar",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Ismail",
+			"chaise" : "12"
+		},
+		{
+			"municipalite" : "Slougia",
+			"chaise" : "18"
+		}
+	],
+	"Jendouba" : [{
+			"municipalite" : "Jendouba",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Ghardimaou",
+			"chaise" : "36"
+		},
+		{
+			"municipalite" : "Bou Salem",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Malga Tatawar",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Tabarka",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Balta-Bou Aouane",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Fernana",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Aïn Draham",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Oued Meliz",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Joueweda",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Aïn sobeh ennadhour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Kalaat Maaden Fargasan",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Khameiria",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Beni Metir",
+			"chaise" : "12"
+		}
+	],
+	"Kef" : [{
+			"municipalite" : "Kef",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Dahmani",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Tajerouine",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sers",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sakiet Sidi Youssef",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Kalaat Senan",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Ksour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Nebeur",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zafran Diber Kef",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Jérissa",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Menzel Salem",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Kalâat Khasba",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Touiref",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Bahra",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "ElMargi",
+			"chaise" : "12"
+		}
+	],
+	"Siliana" : [{
+			"municipalite" : "Siliana",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Makthar",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Bou Arada",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Krib",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Gaâfour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Kesra",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Rouhia",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Morched",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bou Rouis",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bargou",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Hababisa",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Aroussa",
+			"chaise" : "18"
+		}
+	],
+	"Kasserine" : [{
+			"municipalite" : "Ennour",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Thala",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Sbeïtla",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Fériana",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Kasserine",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Foussana",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Charai Machrag Shems",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Majel Bel Abbès",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sbiba",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ezzouhour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Hassi El Ferid",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Ayoun",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ain Khmeisia",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Talabet",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Khamouda",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Rakhmet",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bouzagam",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Jedelienne",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Haïdra",
+			"chaise" : "12"
+		}
+	],
+	"Sidi Bouzid" : [{
+			"municipalite" : "Sidi Bouzid",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Regueb",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Menzel Bouzaiane",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Ahwaz lassoueda",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Mezzouna",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bir El Hafey",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Jilma",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bennour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Meknassy",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Saida",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Souk Jedid",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Cebbala Ouled Asker",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ouled Haffouz",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Ali Ben Aoun",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Batin El Ghezzal",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Mansoura",
+			"chaise" : "12"
+		}
+	],
+	"Kairouan" : [{
+			"municipalite" : "Kairouan",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Bou Hajla",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Sbikha",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Sisseb Dryat",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Alâa",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Oueslatia",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Haffouz",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Jhina",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Hajeb El Ayoun",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Rakada",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Nasrallah",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Chebika",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Abida",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Chrarda",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Cheraitia Ksour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ain Beida",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Menzel Mhiri",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Chaouachi",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ain Jloula",
+			"chaise" : "12"
+		}
+	],
+	"Sousse" : [{
+			"municipalite" : "Sousse",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "M'saken",
+			"chaise" : "30"
+		},
+		{
+			"municipalite" : "Ezzouhour",
+			"chaise" : "30"
+		},
+		{
+			"municipalite" : "Kalâa Kebira",
+			"chaise" : "30"
+		},
+		{
+			"municipalite" : "Hammam Sousse",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Kalâa seghira",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Enfida",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Akouda",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Bouficha",
+			"chaise" : "24"
+		},
+		{
+			"municipalite" : "Grimet Hicher",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "zaouiet sousse",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Bou Ali",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Bou Ali",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Kondar",
+			"chaise" : "18"
+		},
+		{
+			"municipalite" : "Sidi El Hani",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "messadine",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ksibet Thrayet",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Hergla",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Chott Meriem",
+			"chaise" : "18"
+		}
+	],
+	"Monastir" : [{
+			"municipalite" : "Monastir",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Moknine",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Jemmal",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Ksar Hellal",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Téboulba",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Ouerdanine",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sahline Moôtmar",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bekalta",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zéramdine",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bembla-Mnara",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Banen-bouther",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ksibet el-Médiouni",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sayada",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Menzel Hayat",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Menzel Ennour",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Khniss",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Beni Hassan",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Sidi Ameur/Menzel Aissa",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Menzel Kamel",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Amirat Hojjaj",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Touza",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Zaouiet Gantech",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Amiret Touazra",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Bouhajar",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Lamta",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Amiret El Fhoul",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Gnada",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Masdour/Menzel Harb",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Sidi Bennour",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Cherahil",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Menzel Farsi",
+			"chaise" : "12"
+		}
+	],
+	"Mahdia" : [{
+			"municipalite" : "Mahdia",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Ksour Essef",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Jem",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Essouassi",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Chorbane",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Sidi Alouane",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Chebba",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ouled Chamekh",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Melloulèche",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Zid Ouled Moulahom",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Al Bradaa",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Karkar",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bou Merdes",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Al Hkaima",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Tlelsa",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zelba",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Hebira",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Rejiche",
+			"chaise" : "18"
+		}
+	],
+	"Sfax" : [{
+			"municipalite" : "Sfax",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Sakiet Ezzit",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Sakiet Eddaïer",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Tina",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Aïn",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Agereb",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Gremda",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Al Awabet Al Khazanet",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Skhira",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Mahrès",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Hencha",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Bir Ali Ben Khalifa",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Jebiniana",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Amra",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Chihia",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Nadhour Sidi Ali Belabed",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Menzel Chaker",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Hajeb",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Hazeg Ellouza",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Achech",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Nasr",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Ghariba",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Karkenah",
+			"chaise" : "18"
+		}
+	],
+	"Gafsa" : [{
+			"municipalite" : "Gafsa",
+			"chaise" : "36"
+		}, {
+			"municipalite" : "Métlaoui",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "El Ksar",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Redeyef",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Om Larayes",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sened",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Guettar",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Mdhila",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zannouch",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Belkhir",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Sidi Aich",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Lalla",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Sidi Boubaker",
+			"chaise" : "12"
+		}
+	],
+	"Tozeur" : [{
+			"municipalite" : "Tozeur",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Nafta",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Dguech",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "El Hamma du Jérid",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Tameghza",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Hazoua",
+			"chaise" : "12"
+		}
+	],
+	"Kébili" : [{
+			"municipalite" : "Kébili",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Douz",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Souk Lahad",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Faouar",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bechli Jersine El Blidet",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bechri Fatnassa",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "El Golâa",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Jemna",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Rjim Maatoug",
+			"chaise" : "12"
+		}
+	],
+	"Gabès" : [{
+			"municipalite" : "Gabès",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "El Hamma",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Mareth",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Ghannouch",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Teboulbou",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Chenini Nahal",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Al Habib Thameur Bou Attouch",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Métouia",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Matmata Nouvelle",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Ktena",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Oudhref",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bouchama",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Dkhilet Toujane",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Menzel El Habib",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Zarat",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Matmata",
+			"chaise" : "12"
+		}
+	],
+	"Médenine" : [{
+			"municipalite" : "Médenine",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Houmet Souk",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Midoun",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Ben Gardane",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Zarzis",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Zarzis Nord",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Beni Khedache",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Sidi Makhlouf",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Ajim",
+			"chaise" : "24"
+		}, {
+			"municipalite" : "Boughrara",
+			"chaise" : "18"
+		}
+	],
+	"Tataouine" : [{
+			"municipalite" : "Tataouine",
+			"chaise" : "30"
+		}, {
+			"municipalite" : "Ghomrassen",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Smâr",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Remada",
+			"chaise" : "18"
+		}, {
+			"municipalite" : "Bir Lahmar",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "Cheneni Dwiret",
+			"chaise" : "12"
+		}, {
+			"municipalite" : "El Dhiba",
+			"chaise" : "12"
+		}
+	]
+}

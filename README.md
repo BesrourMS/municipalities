@@ -4,3 +4,8 @@
 #### المعطيات المقدمة تعتمد على التنظيم البلدي الحالي وفق مقتضيات الأوامر الحكومية عدد 600 و 601 و 602 الصادرة بتاريخ 26 ماي 2016
 
 ### Créer par Louay Haouari لؤي الهواري
+
+
+```js
+https://cdn.jsdelivr.net/gh/besrourms/municipalities@latest/geotn.json
+```
